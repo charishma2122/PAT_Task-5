@@ -1,4 +1,4 @@
-# my_string = "Python-Interpreter"
+
 my_string= input("Enter string : ") # Taking input from the user and assiging to a variable
 my_string = my_string.lower() # converting given string to lower cases
 max_string = {} # An empty dictionary is created
